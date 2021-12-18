@@ -16,12 +16,12 @@ Richard Kuzma
 Education
 ---------
 
-2016-2018 **Masters in Public Policy**, Harvard Kennedy School
+**Masters in Public Policy**, Harvard Kennedy School
 
      Thesis: AI Infrastructure of U.S. and Chinese Militaries
      Advisor: Secretary of Defense Ash Carter
 
-2012-2016: **BS, Quantitative Economics**, U.S. Naval Academy
+**BS, Quantitative Economics**, U.S. Naval Academy
 
     #1 in Academics, 4.0/4.0 GPA
     Distinguished Graduate
