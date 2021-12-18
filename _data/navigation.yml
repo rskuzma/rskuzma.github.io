@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "ML Publications"
-    url: /publications/
+  - title: "ML Papers"
+    url: /ml-papers/
 
   - title: "Talks"
     url: /talks/    
@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/
