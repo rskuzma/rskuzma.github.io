@@ -10,11 +10,13 @@ redirect_from:
 
 This website is under construction!
 
-I am a Data Scientist and Product Manager with experience building machine learning products and leading teams at the Department of Defense's most cutting-edge technology organizations ([Army AI Integration Center](https://armyfuturescommand.com/ai2c/) and [Defense Innovation Unit](https://www.diu.mil/)). I am a researcher with the [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://casos.cs.cmu.edu/) at Carnegie Mellon University School of Computer Science under Professor Kathleen Carley. I also do applied ML work in the healthcare field at the University of Pennsylvania and Harvard University.
+I build machine learning products and lead technical teams within the U.S. Department of Defense (DoD). I've worked at the Department of Defense's most cutting-edge technology organizations ([Army AI Integration Center](https://armyfuturescommand.com/ai2c/) and [Defense Innovation Unit](https://www.diu.mil/)) and also influence the DoD's technology policy through my writing [write op-eds](https://warontherocks.com/author/richard-kuzma/). 
 
-My research interests include NLP, computational social science, and misinformation.
+I am do applied ML research at Carnegie Mellon within the [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://casos.cs.cmu.edu/) under Professor Kathleen Carley. I also do applied ML work in the healthcare field at the University of Pennsylvania and Harvard University.
 
-In my free time I enjoy [writing op-eds](https://warontherocks.com/author/richard-kuzma/), hiking and playing table tennis with my fiancee, and playing basketball.
+My research interests include NLP, computational social science, misinformation, and healthcare.
+
+In my free time I enjoy hiking, playing tennis with my fianceé, and playing basketball.
 
 <br><br>
 
