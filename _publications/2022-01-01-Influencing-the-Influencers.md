@@ -3,13 +3,14 @@ title: "Influencing the Influencers: Evaluating Person-to-Person Influence on So
 collection: publications
 permalink: /publications/2022-01-01-Influencing-the-Influencers
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Kuzma R., Cruickshank I.J., Carley K.M. (2022) Influencing the Influencers: Evaluating Person-to-Person Influence on Social Networks Using Granger Causality. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications X. COMPLEX NETWORKS 2021. Studies in Computational Intelligence, vol 1016. Springer, Cham. https://doi.org/10.1007/978-3-030-93413-2_8'
+date: 2022-01-01
+venue: 'Complex Networks & Their Applications'
+# paperurl: 'http://rskuzma.github.io/files/influencing_the_influencers.pdf'
+citation: 'Kuzma R., Cruickshank I.J., Carley K.M. (2022) Influencing the Influencers: Evaluating Person-to-Person Influence on Social Networks Using Granger Causality. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications X. COMPLEX NETWORKS 2021. Studies in Computational Intelligence, vol 1016. Springer, Cham. [https://doi.org/10.1007/978-3-030-93413-2_8](https://doi.org/10.1007/978-3-030-93413-2_8)'
 ---
 We introduce a novel method for analyzing person-to-person content influence on Twitter. Using an Ego-Alter framework and Granger Causality, we examine President Donald Trump (the Ego) and the people he retweets (Alters) as a case study. We find that each Alter has a different scope of influence across multiple topics, different magnitude of influence on a given topic, and the magnitude of a single Alter’s influence can vary across topics. This work is novel in its focus on person-to-person influence and content-based influence. Its impact is two-fold: (1) identifying “canaries in the coal mine” who could be observed by misinformation researchers or platforms to identify misinformation narratives before super-influencers spread them to large audiences, and (2) enabling digital marketing targeted toward upstream Alters of super-influencers.
 
-[Link to free (arXiv) pre-pub version](https://arxiv.org/abs/2110.04899)
+[arXiv paper](https://arxiv.org/abs/2110.04899)
+[download](http://rskuzma.github.io/files/influencing_the_influencers.pdf)
 
 Recommended citation: Kuzma R., Cruickshank I.J., Carley K.M. (2022) Influencing the Influencers: Evaluating Person-to-Person Influence on Social Networks Using Granger Causality. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications X. COMPLEX NETWORKS 2021. Studies in Computational Intelligence, vol 1016. Springer, Cham. https://doi.org/10.1007/978-3-030-93413-2_8.
