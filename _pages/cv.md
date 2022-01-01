@@ -17,14 +17,12 @@ Education
 ---------
 
 **Masters in Public Policy**, Harvard Kennedy School
+- Thesis: AI Infrastructure of U.S. and Chinese Militaries
+- Advisor: Secretary of Defense Ash Carter
 
-     Thesis: AI Infrastructure of U.S. and Chinese Militaries
-     Advisor: Secretary of Defense Ash Carter
-
-**BS, Quantitative Economics**, U.S. Naval Academy
-
-    #1 in Academics, 4.0/4.0 GPA
-    Distinguished Graduate
+**Bachelors of Science, Quantitative Economics**, U.S. Naval Academy
+- #1 in Academics, 4.0/4.0 GPA
+- Distinguished Graduate
 
 <br><br>
 
