@@ -10,7 +10,7 @@ redirect_from:
 
 This website is under construction!
 
-I build machine learning products and lead technical teams within the U.S. Department of Defense (DoD). I've worked at the Department of Defense's most cutting-edge technology organizations ([Army AI Integration Center](https://armyfuturescommand.com/ai2c/) and [Defense Innovation Unit](https://www.diu.mil/)) and also influence the DoD's technology policy through my writing [write op-eds](https://warontherocks.com/author/richard-kuzma/). 
+I build machine learning products and lead technical teams within the U.S. Department of Defense (DoD). I've worked at the Department of Defense's most cutting-edge technology organizations ([Army AI Integration Center](https://armyfuturescommand.com/ai2c/) and [Defense Innovation Unit](https://www.diu.mil/)) and also influence the DoD's technology policy through my [writing](https://warontherocks.com/author/richard-kuzma/). 
 
 I am do applied ML research at Carnegie Mellon within the [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://casos.cs.cmu.edu/) under Professor Kathleen Carley. I also do applied ML work in the healthcare field at the University of Pennsylvania and Harvard University.
 
