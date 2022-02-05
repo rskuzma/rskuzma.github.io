@@ -50,7 +50,7 @@ NLP, unsupervised learning, and network science to analyze influence and misinfo
 
 **Senior Data Scientist/Product Manager — Army Artificial Intelligence Integration Center**<br>
 Led applied NLP portfolio. Only non-PhD portfolio lead at Army’s top machine learning organization<br>
-- Built data extraction pipeline saving up to 300,000+ hours of manual transcription of legacy records
+- Built data extraction pipeline saving up to 100,000+ hours of manual transcription of legacy records
 - Used weak supervision and information retrieval techniques for bootstrapping skill labeling within Army’s new talent marketplace
 - Led 12 software developers across multiple teams to design, build, and deploy a battlespace awareness in support of Army’s fastest deploying unit, beating out multi-year and $100M+ efforts
 
