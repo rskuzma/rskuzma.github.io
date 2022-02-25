@@ -56,9 +56,9 @@ Led applied NLP portfolio. Only non-PhD portfolio lead at Army’s top machine l
 
 <br>
 
-**Project Manager, Missile Systems — USS Zumwalt**<br>
+**Program Manager, Missile Systems — USS Zumwalt**<br>
 - Led 14 technicians and multiple cross-org teams to build and deliver new missile system for first-ever live missile shoot aboard the Navy’s first-ever stealth warship worth $4 billion
-- Revamped training program, leading to 200% increase in completed training within 12 months bootstrapping skill labeling within Army’s new talent marketplace
+- Revamped training program, leading to 200% increase in completed training within 12 months 
 
 <br>
 
@@ -70,11 +70,11 @@ Direct report to the Head of Machine Learning, led multiple new efforts within n
 
 <br>
 
-**Senior Strategist, Project Founder — Harvard Belfer Center for Science and International Affairs**<br>
+**Senior Strategist — Harvard Belfer Center for Science and International Affairs**<br>
 Key roles in standing up multiple technology-policy efforts for the world's #1 ranked unversity think tank<br>
-- Direct report to Secretary of Defense Ash Carter, created 3 new security and technology courses
-- Strategic advisor to the Executive Director in founding Technology and Public Purpose Project to promote ethical technology development and partnerships between policymakers and technologists
-- Founding analyst, Defending Digital Democracy Project (D3P). Translated user problems from dozens of interviews into policy recommendations and training programs to protect local and state elections
+- Direct report to Secretary of Defense Ash Carter, created 3 new security and technology courses for policymakers
+- Strategic advisor to the Executive Director in founding the Technology and Public Purpose (TAPP) Project to promote ethical technology development and partnerships between policymakers and technologists
+- Founding analyst, Defending Digital Democracy Project (D3P). Translated user problems from dozens of customer interviews into policy recommendations and training programs to protect local and state elections in partnership with engineers from Google and CrowdStrike
 
 <br><br>
 
